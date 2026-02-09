@@ -31,11 +31,9 @@ export default function Contact(){
   }
 
   const contactInfo = [
-    { icon: '📧', label: 'Email', value: 'samsudeen.sm@gmail.com', href: 'mailto:samsudeen.sm@gmail.com' },
+    { icon: '📧', label: 'Email', value: 'samsudeen.mohammedkunhi@gmail.com', href: 'mailto:samsudeen.sm@gmail.com' },
     { icon: '📱', label: 'Phone', value: '+971 54 569 5979', href: 'tel:+971545695979' },
     { icon: '🔗', label: 'LinkedIn', value: 'linkedin.com/in/samsudeen-sm', href: 'https://linkedin.com/in/samsudeen-sm' },
-    { icon: '💻', label: 'GitHub', value: 'github.com/samsudeen-sm', href: 'https://github.com/samsudeen-sm' },
-    { icon: '🌐', label: 'Portfolio', value: 'samsudeendev.com', href: 'https://samsudeendev.com' },
   ]
 
   return (

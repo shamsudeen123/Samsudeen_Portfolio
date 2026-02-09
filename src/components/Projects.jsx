@@ -62,7 +62,7 @@ export default function Projects(){
                 <span key={tag} className="project-tag">{tag}</span>
               ))}
             </div>
-            <a href={p.link} style={{ fontWeight: '600' }}>View project →</a>
+            {/* <a href={p.link} style={{ fontWeight: '600' }}>View project →</a> */}
           </div>
         ))}
       </div>

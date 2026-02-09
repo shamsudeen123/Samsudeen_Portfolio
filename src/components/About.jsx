@@ -41,7 +41,7 @@ export default function About(){
       <h2>Professional Profile</h2>
       <div className="card">
         <p style={{ fontSize: '1.1rem', marginBottom: '2rem', lineHeight: '1.8' }}>
-          Senior Software Engineer with 6.9+ years of hands-on experience building scalable web and mobile applications.
+          Senior Software Engineer with 7 years of hands-on experience building scalable web and mobile applications.
           Expert in full-stack development with proven expertise in fintech, banking, healthcare, and e-commerce domains.
           Strong background in leading development teams, delivering enterprise-grade solutions, and implementing test automation (90%+ coverage).
           Leverages AI-powered development tools like GitHub Copilot and intelligent coding agents to accelerate development velocity and optimize costs.

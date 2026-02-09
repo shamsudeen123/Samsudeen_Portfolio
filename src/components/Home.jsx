@@ -9,9 +9,9 @@ export default function Home(){
           Senior Software Engineer | Full Stack Developer
         </p>
         <p>
-          6.9+ years of expertise building scalable web and mobile applications across fintech, banking, healthcare, and e-commerce domains.
+          7 years of expertise building scalable web and mobile applications across fintech, banking, healthcare, and e-commerce domains.
           Proficient in React.js, Next.js, Node.js, React Native, and FastAPI. Expert in leading teams, delivering enterprise-grade solutions,
-          and leveraging AI-powered development tools like GitHub Copilot. Proven track record with 90%+ test automation coverage and AWS cloud deployment expertise.
+          and leveraging AI-powered development tools like GitHub Copilot and Claude. Proven track record with 90%+ test automation coverage and AWS cloud deployment expertise.
         </p>
         <div className="cta">
           <a href="#contact"><button>Let's Work Together</button></a>

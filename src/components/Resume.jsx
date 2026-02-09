@@ -3,7 +3,7 @@ import React from 'react'
 export default function Resume(){
   const experience = [
     {
-      title: 'Software Engineer',
+      title: 'Senior Software Engineer',
       company: 'Emirates NBD Dubai, UAE',
       period: 'July 2024–Present',
       description: 'Built and maintained Decision-Making System frontend in React with LEAP UI, improving usability by 30%. Implemented test automation (Playwright) and unit tests (Vitest) achieving 90%+ coverage. Developed FastAPI automation for PR creation/merging. Collaborated with cross-functional teams (QA, Security, Performance, Business) to deliver enterprise-grade solutions.'
